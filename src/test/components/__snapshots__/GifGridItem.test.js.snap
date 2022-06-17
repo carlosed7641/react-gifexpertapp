@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem /> debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card animate__animated animate__fadeIn"
+  >
+    <img
+      alt="Mario Bross"
+      src="https://one-punch.com/"
+    />
+    <p>
+      Mario Bross
+    </p>
+  </div>
+</div>
+`;
